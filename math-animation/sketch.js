@@ -34,7 +34,6 @@ function draw() {
   fill(80, 220, 255);
   ellipse(objectX, objectY, 20, 20);
 
-  // Display controls and live math values on the canvas
   fill(255);
   textSize(13);
   textAlign(LEFT, TOP);
